@@ -5,3 +5,7 @@ Welcome to telusko learning :-
 hibernate
 java
 spring
+
+Thanks you so much.
+
+Done with current version.
